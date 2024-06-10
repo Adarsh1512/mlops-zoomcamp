@@ -1,1 +1,2 @@
 # mlops-zoomcamp
+FORTIS FORTUNA ADIUVAT
